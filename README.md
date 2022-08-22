@@ -1,4 +1,4 @@
-# US-Tornado-Prediction-Analysis
+# US Tornado Prediction Analysis
 
 •	Analyzed the Tornado dataset for the US States for the past 70 years using Matplotlib library
 
