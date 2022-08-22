@@ -4,4 +4,4 @@
 
 •	Performed Data Cleaning operation for the data frame, and calculated the mean and variance for all the States
 
-•	Calculated Method of Moments by finding  and for the respective states and plotted the Histogram 
+•	Calculated Method of Moments by finding alpha and beta for the respective states and plotted the Histogram 
